@@ -1,0 +1,5 @@
+﻿  gtn_functions.cpp
+C:\Users\Z41N\Documents\visual studio projects\guessTheNumber\gtn_functions.cpp(142,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gtn_main.cpp
+  Generating Code...
+  guessTheNumber.vcxproj -> C:\Users\Z41N\Documents\visual studio projects\guessTheNumber\Debug\guessTheNumber.exe

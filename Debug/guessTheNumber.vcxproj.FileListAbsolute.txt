@@ -1,0 +1,2 @@
+C:\Users\Z41N\Documents\visual studio projects\guessTheNumber\Debug\guessTheNumber.exe
+C:\Users\Z41N\Documents\visual studio projects\guessTheNumber\Debug\guessTheNumber.pdb
